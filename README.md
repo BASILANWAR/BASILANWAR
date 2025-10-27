@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Basil</h1>
-<h3 align="center">A driven 3rd-year B.Tech student in Instrumentation & Control Engineering at CUSAT. With hands-on expertise in MATLAB, Simulink, and automation tools</h3>
-
-- 🔭 I’m currently pursuing in **B.tech in Instrumentation and Control Engineering**
-
-- 📫 How to reach me **thekkethilbasil@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/basil-anwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/basil-anwar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://drive.google.com/file/d/1t4s0Ayh6a-iMmxOZkNjEc-FH-JEeJ7H5/view?usp=sharing" width="150" alt="profile" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+# Basil
+**3rd year B.Tech Instrumentation & Control**  
+Cochin University of Science and Technology (CUSAT)  
+
+
+I’m Basil, a driven 3rd-year B.Tech student in Instrumentation & Control Engineering at CUSAT. With hands-on expertise in MATLAB, Simulink, and automation tools, I combine strong technical skills with a collaborative and problem-solving mindset. Hailing from Malappuram, Kerala, I’m passionate about bridging theory with practical applications to tackle complex engineering challenges in instrumentation and automation. I thrive in team-driven environments that encourage innovation and continuous learning.
+
+### 🔧 Skills
+MATLAB, Simulink, Python, C++, Latex Overleaf
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BASILANWAR) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/basil-anwar) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thekkethilbasil@gmail.com)
 
