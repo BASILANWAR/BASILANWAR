@@ -1,6 +1,6 @@
 <p align="center"><a href="https://basilanwar.github.io"><img width="40%" alt="Hello, I'm Basil" src="heloo.png" /></a></p>
 
-<h3 align="center">A driven 3rd-year B.Tech student in Instrumentation & Control Engineering at CUSAT</h3>
+<h3 align="center">A driven 4th-year B.Tech student in Instrumentation & Control Engineering at CUSAT</h3>
 
 - 🔭 I’m currently pursuing in **B.tech in Instrumentation and Control Engineering**
 
